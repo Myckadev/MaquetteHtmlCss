@@ -172,6 +172,14 @@ section {
   margin-right: 30px;
 }
 
+.card-text-mobile{
+  display: none;
+}
+
+.btn-mobile{
+  display: none;
+}
+
 @media screen and (max-width: 500px) {
   .picture-size {
     width: 115.61px;
